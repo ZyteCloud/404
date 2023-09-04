@@ -7,3 +7,5 @@
 <p align="center">
    <img src="https://github.com/ZyteCloud/404/blob/main/.github/assets/screenshot.png?raw=true" alt="zygote">
 </p>
+
+<h2>Protected by <a href="https://github.com/ZyteCloud/404/blob/main/LICENSE">MIT</a> with <a href="https://github.com/JayyDoesDev/dotlicense">dotlicense</a></h2>
